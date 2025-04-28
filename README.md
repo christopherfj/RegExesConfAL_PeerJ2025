@@ -3,5 +3,6 @@
 
 - [`main.ipynb`](main.ipynb) can be configured to run a classifier on the desired data.
 - [`results.ipynb`](results.ipynb) displays the results generated in the [`out/`](out/) folder.
-- Submitted to **PeerJ Computer Science**.
+
+Submitted to **PeerJ Computer Science**.
 
